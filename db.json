@@ -4,12 +4,25 @@
             "name": "Street Day"
         },
         "images": {
-            "nx": "./images/street-day/nx.png",
-            "px": "./images/street-day/px.png",
-            "ny": "./images/street-day/ny.png",
-            "py": "./images/street-day/py.png",
-            "nz": "./images/street-day/nz.png",
-            "pz": "./images/street-day/pz.png"
+            "nx": "https://github.com/tunguyensss/skynav/blob/master/images/street-day/nx.png",
+            "px": "https://github.com/tunguyensss/skynav/blob/master/images/street-day/px.png",
+            "ny": "https://github.com/tunguyensss/skynav/blob/master/images/street-day/ny.png",
+            "py": "https://github.com/tunguyensss/skynav/blob/master/images/street-day/py.png",
+            "nz": "https://github.com/tunguyensss/skynav/blob/master/images/street-day/nz.png",
+            "pz": "https://github.com/tunguyensss/skynav/blob/master/images/street-day/pz.png"
+        }
+    },
+    "2": {
+        "location": {
+            "name": "Street Night"
+        },
+        "images": {
+            "nx": "https://github.com/tunguyensss/skynav/blob/master/images/street-night/nx.png",
+            "px": "https://github.com/tunguyensss/skynav/blob/master/images/street-night/px.png",
+            "ny": "https://github.com/tunguyensss/skynav/blob/master/images/street-night/ny.png",
+            "py": "https://github.com/tunguyensss/skynav/blob/master/images/street-night/py.png",
+            "nz": "https://github.com/tunguyensss/skynav/blob/master/images/street-night/nz.png",
+            "pz": "https://github.com/tunguyensss/skynav/blob/master/images/street-night/pz.png"
         }
     }
 }
