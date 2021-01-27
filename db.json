@@ -56,7 +56,8 @@
             {
                 "id": "mountain",
                 "type": "ground",
-                "icon-position": [100, 50, 50]
+                "icon-position": [100, 50, 50],
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/thumbnail.jpg"
             }
         ]
     },
@@ -81,7 +82,8 @@
             {
                 "id": "church",
                 "type": "ground",
-                "icon-position": [-100, 50, 50]
+                "icon-position": [-100, 50, 50],
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/thumbnail.jpg" 
             }
         ]
     }
