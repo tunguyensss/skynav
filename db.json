@@ -34,5 +34,55 @@
             "nz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/street-night/nz.png",
             "pz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/street-night/pz.png"
         }
+    },
+    "church": {
+        "location": {
+            "name": "Saint Paris Church",
+            "type": "ground"
+        },
+        "coords": {
+            "x": 3,
+            "y": 0
+        },
+        "textures": {
+            "nx": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/nx.png",
+            "px": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/px.png",
+            "ny": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/ny.png",
+            "py": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/py.png",
+            "nz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/nz.png",
+            "pz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/pz.png"
+        },
+        "jump-to": [
+            {
+                "id": "mountain",
+                "type": "ground",
+                "icon-position": [100, 50, 50]
+            }
+        ]
+    },
+    "mountain": {
+        "location": {
+            "name": "Saint Paris Church",
+            "type": "ground"
+        },
+        "coords": {
+            "x": 0,
+            "y": 4
+        },
+        "textures": {
+            "nx": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/nx.png",
+            "px": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/px.png",
+            "ny": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/ny.png",
+            "py": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/py.png",
+            "nz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/nz.png",
+            "pz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/pz.png"
+        },
+        "jump-to": [
+            {
+                "id": "church",
+                "type": "ground",
+                "icon-position": [-100, 50, 50]
+            }
+        ]
     }
 }
