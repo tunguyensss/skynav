@@ -55,7 +55,7 @@
         "jump-to": [
             {
                 "id": "mountain",
-                "type": "ground",
+                "type": "sky",
                 "icon-position": [100, 50, 50],
                 "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/thumbnail.jpg"
             }
@@ -63,8 +63,8 @@
     },
     "mountain": {
         "location": {
-            "name": "Saint Paris Church",
-            "type": "ground"
+            "name": "London Peek",
+            "type": "sky"
         },
         "coords": {
             "x": 0,
