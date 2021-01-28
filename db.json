@@ -57,7 +57,11 @@
                 "id": "mountain",
                 "type": "sky",
                 "icon-position": [100, 50, 50],
-                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/thumbnail.jpg"
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/thumbnail.jpg",
+                "coords": {
+                    "x": 0,
+                    "y": 4
+                }
             }
         ]
     },
@@ -78,12 +82,16 @@
             "nz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/nz.png",
             "pz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/pz.png"
         },
-        "jump-to": [
+        "hotspots": [
             {
                 "id": "church",
                 "type": "ground",
                 "icon-position": [-100, 50, 50],
-                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/thumbnail.jpg" 
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/thumbnail.jpg" ,
+                "coords": {
+                    "x": 3,
+                    "y": 0
+                }
             }
         ]
     }
