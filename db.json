@@ -52,7 +52,7 @@
             "nz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/nz.png",
             "pz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/pz.png"
         },
-        "jump-to": [
+        "hotspots": [
             {
                 "id": "mountain",
                 "type": "sky",
