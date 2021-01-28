@@ -62,6 +62,16 @@
                     "x": 0,
                     "y": 4
                 }
+            },
+            {
+                "id": "city",
+                "type": "ground",
+                "icon-position": [100, 0, 0],
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/thumbnail.jpg" ,
+                "coords": {
+                    "x": 0,
+                    "y": 0
+                }
             }
         ]
     },
@@ -91,6 +101,56 @@
                 "coords": {
                     "x": 3,
                     "y": 0
+                }
+            },
+            {
+                "id": "city",
+                "type": "ground",
+                "icon-position": [70, 100, 0],
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/thumbnail.jpg" ,
+                "coords": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        ]
+    },
+    "city": {
+        "location": {
+            "name": "Lorem city",
+            "type": "ground"
+        },
+        "coords": {
+            "x": 0,
+            "y": 0
+        },
+        "textures": {
+            "nx": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/nx.png",
+            "px": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/px.png",
+            "ny": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/ny.png",
+            "py": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/py.png",
+            "nz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/nz.png",
+            "pz": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/city/pz.png"
+        },
+        "hotspots": [
+            {
+                "id": "church",
+                "type": "ground",
+                "icon-position": [100, 20, 0],
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/church/thumbnail.jpg" ,
+                "coords": {
+                    "x": 3,
+                    "y": 0
+                }
+            },
+            {
+                "id": "mountain",
+                "type": "sky",
+                "icon-position": [100, 20, 90],
+                "thumbnail": "https://raw.githubusercontent.com/tunguyensss/skynav/master/images/mountain/thumbnail.jpg" ,
+                "coords": {
+                    "x": 0,
+                    "y": 4
                 }
             }
         ]
